@@ -31,7 +31,7 @@ In this exercise, you will:
 3. Open a pull request
 4. Merge your pull request
 
-### How to start this exercise
+### How to start this exercise if you can do it
 
 1. Right-click **Copy Exercise** and open the link in a new tab.
 
